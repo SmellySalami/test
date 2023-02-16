@@ -191,3 +191,27 @@ French, British and Aboriginal employees. Dominated fur trade in the northwest a
 - (1813) Canada wins another fight. (Lieutenant-Colonel Charles de Salaberry and 460 soldiers, mostly French Canadiens, turned back 4,000 American invaders at Châteauguay, south of Montreal)
 - (1813) Americans burned Government House and the Parliament Buildings in York (now Toronto).
 - (1814) Canadians burn down white house. (Major-General Robert Ross led an expedition from Nova Scotia that burned down the White House and other public buildings in Washington, D.C. Ross died in battle soon afterwards and was buried in Halifax with full military honours)
+
+## Rebellions Of 1837–38
+
+- (1830s) Reformers in Upper and Lower Canada think full democracy coming too slow.
+- (1837–38) Armed rebellions outside Montreal and in Toronto. Rebels think Canada should adopt American republican values or even try to join the United States. Not enough public support. Defeated by British troops and Canadian volunteers. They were hanged/excelled.
+- Lord Durham (English reformer)
+  - Good: Upper and Lower Canada merge + get responsible government (ministers of the Crown must have the support of a majority of the elected representatives in order to govern)
+  - Bad: Canadiens should assimilate into English-speaking Protestant culture.
+- Some reformers, including Sir Étienne-Paschal Taché and Sir George-Étienne Cartier, later became Fathers of Confederation, as did a former member of the voluntary government militia in Upper Canada, Sir John A. Macdonald.
+
+## Responsible Government
+
+- (1840) Upper and Lower Canada unites as the Province of Canada. Reformers such as Sir Louis-Hippolyte La Fontaine and Robert Baldwin, in parallel with Joseph Howe in Nova Scotia, worked with British governors toward responsible government.
+  The first British North American colony to attain full responsible government was Nova Scotia in 1847–48. In 1848–49 the governor of United Canada, Lord Elgin, with encouragement from London, introduced responsible government.
+  This is the system that we have today: if the government loses a confidence vote in the assembly it must resign. La Fontaine, a champion of democracy and French language rights, became the first leader of a responsible government in the Canadas.
+
+## Confederation
+
+From 1864 to 1867, representatives of Nova Scotia, New Brunswick and the Province of Canada, with British support, worked together to establish a new country. These men are known as the Fathers of Confederation. They created two levels of government: federal and provincial. The old Province of Canada was split into two new provinces: Ontario and Quebec, which, together with New Brunswick and Nova Scotia, formed the new country called the Dominion of Canada. Each province would elect its own legislature and have control of such areas as education and health.
+The British Parliament passed the British North America Act in 1867. The Dominion of Canada was officially born on July 1, 1867. Until 1982, July 1 was celebrated as “Dominion Day” to commemorate the day that Canada became a self-governing Dominion. Today it is officially known as Canada Day.
+
+## Dominion from Sea to Sea
+
+Sir Leonard Tilley, an elected official and Father of Confederation from New Brunswick, suggested the term Dominion of Canada in 1864. He was inspired by Psalm 72 in the Bible which refers to “dominion from sea to sea and from the river to the ends of the earth.” This phrase embodied the vision of building a powerful, united, wealthy and free country that spanned a continent. The title was written into the Constitution, was used officially for about 100 years, and remains part of our heritage today.
