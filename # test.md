@@ -1,3 +1,7 @@
+# Notes
+
+apparently you need to know people names
+
 # Oath
 
 > I swear (or affirm)
@@ -204,14 +208,112 @@ French, British and Aboriginal employees. Dominated fur trade in the northwest a
 ## Responsible Government
 
 - (1840) Upper and Lower Canada unites as the Province of Canada. Reformers such as Sir Louis-Hippolyte La Fontaine and Robert Baldwin, in parallel with Joseph Howe in Nova Scotia, worked with British governors toward responsible government.
-  The first British North American colony to attain full responsible government was Nova Scotia in 1847–48. In 1848–49 the governor of United Canada, Lord Elgin, with encouragement from London, introduced responsible government.
-  This is the system that we have today: if the government loses a confidence vote in the assembly it must resign. La Fontaine, a champion of democracy and French language rights, became the first leader of a responsible government in the Canadas.
+- (1847–48) Nova Scotia is the first British North American colony to attain full responsible government was .
+- (1848–49) Lord Elgin (governor of United Canada) introduced **responsible government**: if the government loses a confidence vote in the assembly it must resign. We still have this today
+- La Fontaine, a champion of democracy and French language rights, became the first leader of a responsible government in the Canadas.
 
 ## Confederation
 
-From 1864 to 1867, representatives of Nova Scotia, New Brunswick and the Province of Canada, with British support, worked together to establish a new country. These men are known as the Fathers of Confederation. They created two levels of government: federal and provincial. The old Province of Canada was split into two new provinces: Ontario and Quebec, which, together with New Brunswick and Nova Scotia, formed the new country called the Dominion of Canada. Each province would elect its own legislature and have control of such areas as education and health.
-The British Parliament passed the British North America Act in 1867. The Dominion of Canada was officially born on July 1, 1867. Until 1982, July 1 was celebrated as “Dominion Day” to commemorate the day that Canada became a self-governing Dominion. Today it is officially known as Canada Day.
+- (1864 to 1867) representatives of Nova Scotia, New Brunswick and the Province of Canada, with British support, worked together to establish a new country (also became Fathers of Confederation).
+  - Two levels of government: federal and provincial.
+  - The old Province of Canada was split into two new provinces: Ontario and Quebec, + New Brunswick + Nova Scotia = the **Dominion of Canada**. Each province would elect its own legislature and have control of such areas as education and health.
+- (1867) British Parliament passed the British North America Act. The official act to merge the provinces to the Dominion of Canada
+- (July 1, 1867) The Dominion of Canada was officially born. Until 1982, July 1 was celebrated as “Dominion Day” to commemorate the day that Canada became a self-governing Dominion. Today it is officially known as **Canada Day**.
 
 ## Dominion from Sea to Sea
 
-Sir Leonard Tilley, an elected official and Father of Confederation from New Brunswick, suggested the term Dominion of Canada in 1864. He was inspired by Psalm 72 in the Bible which refers to “dominion from sea to sea and from the river to the ends of the earth.” This phrase embodied the vision of building a powerful, united, wealthy and free country that spanned a continent. The title was written into the Constitution, was used officially for about 100 years, and remains part of our heritage today.
+Sir Leonard Tilley, an elected official and Father of Confederation from New Brunswick, suggested the term Dominion of Canada in 1864. He was inspired by Psalm 72 in the Bible which refers to **dominion from sea to sea and from the river to the ends of the earth.** This phrase embodied the vision of building a powerful, united, wealthy and free country that spanned a continent. The title was written into the Constitution, was used officially for about 100 years, and remains part of our heritage today.
+
+## Expansion of the Dominion
+
+- (1867) Ontario, Quebec, Nova Scotia, New Brunswick
+- (1870) Manitoba, Northwest Territories
+- (1871) British Columbia
+- (1873) Prince Edward Island
+- (1880) Transfer of the Arctic Islands (to N.W.T.)
+- (1898) Yukon Territory
+- (1905) Alberta, Saskatchewan
+- (1949) Newfoundland and Labrador
+- (1999) Nunavut
+
+## Canada’s First Prime Minister
+
+- (1867) **Sir John Alexander Macdonald**, a Father of Confederation, became Canada’s first Prime Minister.
+  - Born in Scotland on January 11, 1815 --> Sir John A. Macdonald Day.
+  - His portrait is on the $10 bill.
+- **Sir George-Étienne Cartier** was the key architect of Confederation from Quebec.
+  - A railway lawyer, Montrealer, close ally of Macdonald and patriotic Canadien
+  - Cartier led Quebec into Confederation and helped negotiate the entry of the Northwest Territories, Manitoba and British Columbia into Canada.
+
+## Challenge in the West
+
+- (1869) Canada took over northwest region from the Hudson’s Bay Company without consulting the 12,000 Métis of the Red River. **Louis Riel** led an armed uprising and seized Fort Garry, the territorial capital.
+- (1870) Ottawa sent soldiers to retake Fort Garry. Riel fled to the United States. Riel was elected to Parliament but never took his seat. Canada establish Manitoba.
+- (1873) North West Mounted Police (NWMP, "Mounties") formed. To oppress the west and Indians. Founded Fort Calgary, Fort MacLeod, and others. Regina headquarters
+- (1885) second rebellion in  Saskatchewan (Métis and Indian rights problems). Riel’s trial and execution for high treason. Opposed by Quebec. Riel is kinda a defender of Métis rights and the father of Manitoba.
+- The NWMP founded Fort Calgary, Fort MacLeod and other centres that today are cities and towns. Regina became its headquarters. Today, the Royal Canadian Mounted. (MajorGeneral Sir Sam Steele is notable)
+
+## A Railway from Sea to Sea
+
+- (1871) British Columbia joins Canada iafter Ottawa promised railway to the West Coast.
+- (November 7, 1885) Donald Smith (Lord Strathcona), director of the Canadian Pacific Railway (CPR), drove the last spike. Financed by British and American investors and built by both European and Chinese labour. Afterwards the Chinese were subject to discrimination, including the **Head Tax**, a race-based entry fee. The Government of Canada **apologized in 2006** for this discriminatory policy. After many years of heroic work, the CPR’s “ribbons of steel” fulfilled a national dream.
+
+## Moving Westward
+
+- (1890s - early 1900s) Industrialization + economic boom. 1 million British + 1 million Americans immigrated to Canada.
+- **Sir Wilfrid Laurier** became the first French Canadian prime minister since Confederation and
+  - Encouraged immigration to the West.
+  - His portrait is on the $5 bill.
+  - The railway made it possible for immigrants, including 170,000 Ukrainians, 115,000 Poles and tens of thousands from Germany, France, Norway and Sweden to settle in the West before 1914 and develop a thriving agricultural sector.
+
+## The First World War
+
+This entire blurb is about patriotism. Canadians were proud to be part of the British Empire but then developed their own identity through war.
+- (1899–1902) Boer War: 7,000 + volunteered to fight in the South African War. Over 260 died. 
+- (1900) Paardeberg (“Horse Mountain”) and Lillefontein. Won and strengthened national pride in Canada. 
+- (1914) Germany attacked Belgium and France. Britain declared war. **Canadian Expeditionary Force** (later the **Canadian Corps**) had 600,000/8,000,000 Canadians served in the war. 
+- (April 1917) Canadian Corps captures **Vimy Ridge**. Reputation of “shock troops of the British Empire”. strengthened national pride again. April 9 Vimy Day. 
+- (1914 to 1920) Ottawa interned over 8,000 former Austro-Hungarian subjects, mainly Ukrainian men, as “enemy aliens” in 24 labour camps across Canada.
+- (1918) General Sir Arthur Currie (Canada’s greatest soldier) + Canadian Corps + French and British Empire troops in the last 100 days including: 
+  - (August 8, 1918) Battle of Amiens. Won. Germans call it **the black day of the German Army**
+  - Then Arras, Canal du Nord, Cambrai and Mons. 
+- (November 11, 1918)Germany and Austria surrender. 60,000 Canadians were killed + 170,000 wounded. 
+
+## Women get the Vote
+At Confederation, only property-owning adult white males can vote. Dr. Emily Stowe (first female practice medicine) founded **women’s suffrage movement** 
+- (1916) Manitoba became the first province to grant voting rights to women. 
+- (1917) Sir Robert Borden gave women the right to vote in federal elections: 
+  - nurses at the battle front, 
+  - then women who were related to men in active wartime service.
+- (1918) most Canadian female citizens aged 21 and over were granted the right to vote in federal elections.
+- (1921) Agnes Macphail (farmer and teacher) became the first woman MP. 
+- (1940) Quebec granted women the vote (Thanks Thérèse Casgrain...)
+
+## Rememberance Day
+- November 11: Remembrance Day. Canadians wear the red poppy + a moment of silence at the 11th hour of the 11th day of the 11th month\
+- honour the sacrifices 1 million +  brave men and women who have served + 110,000 dead 
+- (1915) Canadian medical officer Lieutenant Colonel John McCrae composed the poem “In Flanders Fields” 
+
+## Between the Wars
+- After the First World War, the British Empire evolved into the **British Commonwealth of Nations**. Canada + Other countries includes India, Australia, New Zealand, and several African and Caribbean countries.
+- **Roaring Twenties** overall prosperity. 
+- (1929) stock market crash. **Great Depression**. "Dirty Thirties" 27% unemployment. 
+  - Canada goes socialist with minimum wages, standard work week, and unemployment insurance.
+  - (1934) Bank of Canada to stabilize economy
+
+## D-Day
+- (1943–44) Canadians took part in the liberation of Italy
+- (June 6, 1944) D-Day. Invasion of Normandy in northern France. 15,000 Canadian troops stormed and captured Juno Beach from the German Army. ~ 1/10 Allied soldiers on D-Day was Canadian. 
+- (1944–45) The Canadian Army liberated the Netherlands 
+- (May 8, 1945) Canada helped force the German surrender
+
+## Second World War
+- (1939) WW2 starts Adolf Hitler + National Socialist (Nazi) invaded Poland and conquered much of Europe.
+  - 1/11.5 million Canadians and Newfoundlanders (Newfoundland was a separate British entity) fight WW2. 44,000 were killed. 
+- (1941) unsuccessful defence of Hong Kong from Imperial Japan,
+- (1942) failed raid on Nazi-controlled Dieppe on the coast of France. 
+- The **Royal Canadian Air Force (RCAF)** took part in the **Battle of Britain**. Canada most effort in Allied forces in British Commonwealth Air Training Plan. 
+- The **Royal Canadian Navy (RCN)** took part in the **Battle of the Atlantic**, protect merchant ships against German submarines. **Canada’s Merchant Navy** feed, clothe and resupply Britain. At the end of the Second World War, Canada had the third largest navy in the world.
+- AFter Japan surrender, forcible relocation of Japanese Canadians and the sale of their property without compensation. **Government apologized in 1988**
+
+# Modern Canada
