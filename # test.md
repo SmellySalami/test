@@ -1,6 +1,8 @@
 # Notes
 
 apparently you need to know people names
+TODO
+- Look at all the italicized and bolded words. Those will be on the test
 
 # Oath
 
@@ -317,3 +319,171 @@ At Confederation, only property-owning adult white males can vote. Dr. Emily Sto
 - AFter Japan surrender, forcible relocation of Japanese Canadians and the sale of their property without compensation. **Government apologized in 1988**
 
 # Modern Canada
+
+## Trade And Economic Growth
+
+- Depression anti-trade policies opened up by treaties. e.g General Agreement on Tariffs and Trade (GATT) -> World Trade Organization (WTO).
+- (1947) The discovery of oil in Alberta. Starts Canada’s modern energy industry.
+- (1951) most Canadians were able to afford adequate food, shelter and clothing.
+- (1945 and 1970) Canada loves trading with the US. Canada got rich and made
+  - **Canada Health Act** ensures common elements and a basic standard of coverage.
+  - (1940) **(Un)employment insurance** 
+  - (1927) Old Age Security
+  - (1965) Canada and Quebec Pension Plans.
+  - Publicly funded education is provided by the provinces and territories.
+
+## International Engagement
+
+- During The Cold War, Canada joined with other democratic countries of the West to form the **North Atlantic Treaty Organization (NATO)**, a military alliance, 
+- North American Aerospace Defence Command (NORAD) with the United States.
+- Canada joined the United Nations (UN). It participated in the UN operation defending
+   - (1950–53) South Korea in the Korean War, with 500 dead and 1,000 wounded. 
+   - Egypt, Cyprus and Haiti, 
+   - former Yugoslavia and Afghanistan. 
+
+## Canada And Quebec
+
+- (1960s) **Quiet Revolution**. Many Quebecers sought to separate from Canada. 
+- (1963) Parliament established the **Royal Commission on Bilingualism and Biculturalism.** 
+- (1969) **Official Languages Act** guarantees French and English services in the federal government across Canada.
+- (1970) Canada helped found **La Francophonie**, an international association of French-speaking countries. 
+- (1980) defeated in a referendum for Quebec sovereignty in Quebec
+- (1982) the Constitution was amended without the agreement of Quebec. 
+- (1995) defeated in a second referendum, 
+- Quebec still has problems 
+
+## A Changing Society
+Summary: Canada became more flexible cause they accepted more immigrants
+
+As social values changed over more than 50 years, Canada became a more flexible and open society. Many took advantage of expanding secondary and postsecondary educational opportunities and a growing number of women entered the professional work force. Most Canadians of Asian descent had in the past been denied the vote in federal and provincial elections. In 1948 the last of these, the Japanese Canadians, gained the right to vote. Aboriginal people were granted the vote in 1960. Today every citizen over the age of 18 may vote. Canada welcomed thousands of refugees from Communist oppression, including about 37,000 who escaped Soviet tyranny in Hungary in 1956. With the Communist victory in the Vietnam War in 1975, many Vietnamese fled, including over 50,000 who sought refuge in Canada. The idea of multiculturalism, as a result of 19th- and 20th-century immigration, gained a new impetus. By the 1960s, one-third of Canadians had origins that were neither British nor French, and took pride in preserving their distinct culture in the Canadian fabric. Today, diversity enriches Canadians’ lives, particularly in our cities.
+
+## Arts and culture in Canada
+
+- Maybe Stephen Leacock, Louis Hémon, Sir Charles G.D. Roberts, Pauline Johnson, Émile Nelligan, Robertson Davies, Margaret Laurence and Mordecai Richler. 
+- Musicians such as Sir Ernest MacMillan and Healey Willan won renown in Canada and abroad. 
+- Writers such as Joy Kogawa, Michael Ondaatje and Rohinton Mistry have diversified Canada’s literary experience. 
+- In the visual arts, Canada is historically perhaps best known for the **Group of Seven (1920)**, who developed a style of painting to capture the rugged wilderness landscapes. 
+- Emily Carr painted the forests and Aboriginal artifacts of the West Coast. 
+- Les Automatistes of Quebec were pioneers of modern abstract art in the 1950s, most notably Jean-Paul Riopelle. 
+- Quebec’s Louis-Philippe Hébert was a celebrated sculptor of historical figures. 
+- Kenojuak Ashevak pioneered modern Inuit art with etchings, prints and soapstone sculptures. 
+- The films of Denys Arcand have been popular in Quebec and across the country, and have won international awards.
+- Canadian filmmakers: Norman Jewison and Atom Egoyan.
+- **Basketball** was invented by Canadian James Naismith in 1891.
+- In 1996 at the Olympic Summer Games, Donovan Bailey became a world record sprinter and double Olympic gold medallist.
+- Chantal Petitclerc became a world champion wheelchair racer and Paralympic gold medalist.
+- One of the greatest hockey players of all time, **Wayne Gretzky**, played for the Edmonton Oilers from 1979 to 1988.
+- In 1980, **Terry Fox**, a British Columbian who lost his right leg to cancer at the age of 18, began a cross-country run, the “Marathon of Hope,” to raise money for cancer research. He became a hero to Canadians. While he did not finish the run and ultimately lost his battle with cancer, his legacy continues through yearly fundraising events in his name. 
+- In 1985, fellow British Columbian Rick Hansen circled the globe in a wheelchair to raise funds for spinal cord research. Canadian advances in science and technology are world renowned and have changed the way the world communicates and does business. 
+- Marshall McLuhan and Harold Innis were pioneer thinkers. 
+- Since 1989, the Canadian Space Agency and Canadian astronauts have participated in space exploration, often using the Canadian-designed and built **Canadarm**.
+- Gerhard Herzberg, a refugee from Nazi Germany, John Polanyi, Sidney Altman, Richard E. Taylor, Michael Smith and Bertram Brockhouse were Nobel Prize-winning scientists.
+
+## GREAT CANADIAN DISCOVERIES AND INVENTIONS
+
+Canadians have made various discoveries and inventions. Some of the most famous are listed below.
+-	 **Alexander Graham Bell** — hit on the idea of the telephone at his summer house in Canada.
+-	 **Joseph-Armand Bombardier** — invented the snowmobile, a light-weight winter vehicle.
+-	 **Sir Sandford Fleming** — invented the worldwide system of standard time zones.
+-	 **Matthew Evans and Henry Woodward** — together invented the first electric light bulb and later sold the patent to Thomas Edison who, more famously, commercialized the light bulb. 
+-	 **Reginald Fessenden** — contributed to the invention of radio, sending the first wireless voice message in the world.
+-	 **Dr. Wilder Penfield** — was a pioneering brain surgeon at McGill University in Montreal, and was known as “the greatest living Canadian.”
+-	 **Dr. John A. Hopps** — invented the first cardiac pacemaker, used today to save the lives of people with heart disorders.
+-	 **SPAR Aerospace / National Research Council** — invented the Can ht  adarm, a robotic arm used in outer space.
+-	 **Mike Lazaridis and Jim Balsillie** — of Research in Motion (RIM) — a wireless communications company known for its most famous invention: the BlackBerry. 
+
+# How Canadians Govern Themselves
+
+## Federal State
+- (1867) British North America Act: Defined the responsibilities of the federal and provincial governments 
+- (1867) now known as the Constitution Act
+- federal government responsibilities: national and international concern. (Defence, foreign policy, interprovincial trade and communications, currency, navigation, criminal law and citizenship.)
+- provincal government responsibilites: municipal government, education, health, natural resources, property and civil rights, and highways. 
+- federal + provinces share agriculture and immigration. 
+- Federalism allows different provinces to adopt policies tailored to their own populations, and gives provinces the flexibility to experiment with new ideas and policies. 
+- Every province has its own elected **Legislative Assembly**, like the House of Commons in Ottawa. (Except three northern territories )
+## Parliamentary Democracy
+- **parliamentary democracy**:  people elect members to the House of Commons in Ottawa and to the provincial and territorial legislatures. These representatives are responsible for passing laws, approving and monitoring expenditures, and keeping the government accountable. 
+- **Cabinet ministers** (primes minister and his selected goons) are responsible to the elected representatives, which means they must retain the “confidence of the House” and have to resign if they are defeated in a non-confidence vote
+- Parliament has three parts: 
+  - the Sovereign (Queen or King), represented by **Governer General** (5 years). Appointed by advice of the **Prime Minister**
+  - the Senate: Appointeed by Governer General, by advice of the Prime Minister. Senators serves until 75
+  - the House of Commons: representative chamber. **members of Parliament (MP)** elected by the people every 4 years
+- Provincial legislatures: comprise the 
+  - Lieutenant Governor and 
+  - the elected Assembly. 
+- Both the House of Commons and the Senate consider and review bills (proposals for new laws). No bill can become law in Canada until it has been passed by both chambers and has received **royal assent**, granted by the Governor General on behalf of the Sovereign.
+
+## Making Laws
+How a bill becomes law — The Legislative Process
+- STEP 1 First Reading – The bill is considered read for the first time and is printed.
+- STEP 2 Second Reading – Members debate the bill’s principle.
+- STEP 3 Committee Stage – Committee members study the bill clause by clause.
+- STEP 4 Report Stage – Members can make other amendments.
+- STEP 5 Third Reading – Members debate and vote on the bill.
+- STEP 6 Senate – The bill follows a similar process in the Senate.
+- STEP 7 Royal Assent – The bill receives royal assent after being passed by both Houses
+## Constitutional Monarchy
+- Constitutional Monarchy means the head of state is a hereditary Sovereign (King or Queen), who rules in accordance to the Consititution 
+- The Sovereign (King/Queen) is a part of Parliament. 
+  - non-partisan role as the focus of citizenship and allegiance. 
+  - Just a symbol. 
+  - links Canada to 53 common wealth countries. 
+  - head of state (Sovereign) is not head of government (Prime Minister) 
+- Three branches of government: **Executive**, **Legislative** and **Judicial**. work together. 
+- Each provincial/territorial government 
+- has an **elected legislature** (passes laws). Legislative Assembly (MLAs), members of the National Assembly (MNAs), members of the Provincial Parliament (MPPs) or members of the House of Assembly (MHAs).
+- Provinces: **Premier** is like Prime Minister. Lieutenant Governor like Governor General. 
+- Territories: the **Commissioner** like federal government, ceremonial role.
+## Canada’s System of Government
+- Executive Branch: PrimeMinister + Cabinat. Implements Laws
+- Legeslative Branch: Senate + House of Commons. Passes Laws
+# Federal Elections
+- federal elections every four years after general election (third Monday in October every). Prime Minister
+may ask the Governor General to call an earlier election.
+- Canada has 308 electoral districts/ridings/constituencies. Each one is represented by an MP. People who run for office are candidates 
+
+## Voting
+- You are eligible to vote in a federal election (or cast a ballot in a federal referendum) if
+  - a Canadian citizen; and
+  - at least 18 years old on voting day; and
+  - on the voters’ list
+- Voter's list is produced from the National Register of Electors (db of Canadians older than 18) by a neutral agency
+of Parliament called Elections Canada.
+- Elections Canada mails elegible voters a voter information card for when and where to vote
+- You can be added to the voter's list the day of the election
+
+## Secret Ballot
+- No one can watch you vote. But yuo can discuss after 
+## After Election 
+- The leader of the party with most votes is asked by the Governer General to form an government.
+- The leader becomes the prime minister 
+  - Majority government: more than half seats in House of Commons
+  - Minority government: less than half seats in House of Commons
+- Prime Minister and his party runs government as long as they have the **confidence** of a majority of MPs
+- If a majority of the members of the House of Commons vote against a major government decision (like budget), the party in power is defeated, then usually in the Prime Minister asking the Governor General, to call an election.
+- Prime Minister gets to choose ministers of the Crown/ Cabinet Ministers to form the Cabinet
+- Opposition parties: parties not in power. Official Opposition is the party with the second most seats. 
+
+## Other Levels of Government 
+- local/ municipal government: responsible for urban or regional planning, streets and roads, sanitation (such as garbage removal), snow removal etc
+  - "by-laws" only affect local community 
+  - The council has has mayor (reeve) and councillors (aldermen)
+- First Nations have band chiefs and councillors
+- Note: look at chart of responsibilites for each level of government
+# The Justice System
+- we use **presumption of innocence**: everyone is innocent until proven guilty. 
+- The courts settle disputes and the police enforce the laws.
+## Courts
+-  Supreme Court *of Canada* is our country’s highest court
+-  Federal Court of Canada deals with matters concerning the federal government
+-  In most provinces there is an appeal court and a trial court, sometimes called the Court of Queen’s Bench or the Supreme Court.
+-  Also provincal courts for lesser offences 
+## Police 
+- There are provincial police forces in Ontario and Quebec
+- municipal police departments in all provinces. 
+- The Royal Canadian Mounted Police (RCMP) enforce federal laws throughout Canada,
+  - serve as the provincial police in all provinces and territories except Ontario and Quebec
+# Canadian Symbols (today)
+# Canada's Economy (today)
+# Canada's Regions (Tonight)
