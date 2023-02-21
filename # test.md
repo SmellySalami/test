@@ -2,6 +2,7 @@
 
 apparently you need to know people names
 TODO
+
 - Look at all the italicized and bolded words. Those will be on the test
 
 # Oath
@@ -252,7 +253,7 @@ Sir Leonard Tilley, an elected official and Father of Confederation from New Bru
 - (1869) Canada took over northwest region from the Hudson’s Bay Company without consulting the 12,000 Métis of the Red River. **Louis Riel** led an armed uprising and seized Fort Garry, the territorial capital.
 - (1870) Ottawa sent soldiers to retake Fort Garry. Riel fled to the United States. Riel was elected to Parliament but never took his seat. Canada establish Manitoba.
 - (1873) North West Mounted Police (NWMP, "Mounties") formed. To oppress the west and Indians. Founded Fort Calgary, Fort MacLeod, and others. Regina headquarters
-- (1885) second rebellion in  Saskatchewan (Métis and Indian rights problems). Riel’s trial and execution for high treason. Opposed by Quebec. Riel is kinda a defender of Métis rights and the father of Manitoba.
+- (1885) second rebellion in Saskatchewan (Métis and Indian rights problems). Riel’s trial and execution for high treason. Opposed by Quebec. Riel is kinda a defender of Métis rights and the father of Manitoba.
 - The NWMP founded Fort Calgary, Fort MacLeod and other centres that today are cities and towns. Regina became its headquarters. Today, the Royal Canadian Mounted. (MajorGeneral Sir Sam Steele is notable)
 
 ## A Railway from Sea to Sea
@@ -271,50 +272,57 @@ Sir Leonard Tilley, an elected official and Father of Confederation from New Bru
 ## The First World War
 
 This entire blurb is about patriotism. Canadians were proud to be part of the British Empire but then developed their own identity through war.
-- (1899–1902) Boer War: 7,000 + volunteered to fight in the South African War. Over 260 died. 
-- (1900) Paardeberg (“Horse Mountain”) and Lillefontein. Won and strengthened national pride in Canada. 
-- (1914) Germany attacked Belgium and France. Britain declared war. **Canadian Expeditionary Force** (later the **Canadian Corps**) had 600,000/8,000,000 Canadians served in the war. 
-- (April 1917) Canadian Corps captures **Vimy Ridge**. Reputation of “shock troops of the British Empire”. strengthened national pride again. April 9 Vimy Day. 
+
+- (1899–1902) Boer War: 7,000 + volunteered to fight in the South African War. Over 260 died.
+- (1900) Paardeberg (“Horse Mountain”) and Lillefontein. Won and strengthened national pride in Canada.
+- (1914) Germany attacked Belgium and France. Britain declared war. **Canadian Expeditionary Force** (later the **Canadian Corps**) had 600,000/8,000,000 Canadians served in the war.
+- (April 1917) Canadian Corps captures **Vimy Ridge**. Reputation of “shock troops of the British Empire”. strengthened national pride again. April 9 Vimy Day.
 - (1914 to 1920) Ottawa interned over 8,000 former Austro-Hungarian subjects, mainly Ukrainian men, as “enemy aliens” in 24 labour camps across Canada.
-- (1918) General Sir Arthur Currie (Canada’s greatest soldier) + Canadian Corps + French and British Empire troops in the last 100 days including: 
+- (1918) General Sir Arthur Currie (Canada’s greatest soldier) + Canadian Corps + French and British Empire troops in the last 100 days including:
   - (August 8, 1918) Battle of Amiens. Won. Germans call it **the black day of the German Army**
-  - Then Arras, Canal du Nord, Cambrai and Mons. 
-- (November 11, 1918)Germany and Austria surrender. 60,000 Canadians were killed + 170,000 wounded. 
+  - Then Arras, Canal du Nord, Cambrai and Mons.
+- (November 11, 1918)Germany and Austria surrender. 60,000 Canadians were killed + 170,000 wounded.
 
 ## Women get the Vote
-At Confederation, only property-owning adult white males can vote. Dr. Emily Stowe (first female practice medicine) founded **women’s suffrage movement** 
-- (1916) Manitoba became the first province to grant voting rights to women. 
-- (1917) Sir Robert Borden gave women the right to vote in federal elections: 
-  - nurses at the battle front, 
+
+At Confederation, only property-owning adult white males can vote. Dr. Emily Stowe (first female practice medicine) founded **women’s suffrage movement**
+
+- (1916) Manitoba became the first province to grant voting rights to women.
+- (1917) Sir Robert Borden gave women the right to vote in federal elections:
+  - nurses at the battle front,
   - then women who were related to men in active wartime service.
 - (1918) most Canadian female citizens aged 21 and over were granted the right to vote in federal elections.
-- (1921) Agnes Macphail (farmer and teacher) became the first woman MP. 
+- (1921) Agnes Macphail (farmer and teacher) became the first woman MP.
 - (1940) Quebec granted women the vote (Thanks Thérèse Casgrain...)
 
 ## Rememberance Day
+
 - November 11: Remembrance Day. Canadians wear the red poppy + a moment of silence at the 11th hour of the 11th day of the 11th month\
-- honour the sacrifices 1 million +  brave men and women who have served + 110,000 dead 
-- (1915) Canadian medical officer Lieutenant Colonel John McCrae composed the poem “In Flanders Fields” 
+- honour the sacrifices 1 million + brave men and women who have served + 110,000 dead
+- (1915) Canadian medical officer Lieutenant Colonel John McCrae composed the poem “In Flanders Fields”
 
 ## Between the Wars
+
 - After the First World War, the British Empire evolved into the **British Commonwealth of Nations**. Canada + Other countries includes India, Australia, New Zealand, and several African and Caribbean countries.
-- **Roaring Twenties** overall prosperity. 
-- (1929) stock market crash. **Great Depression**. "Dirty Thirties" 27% unemployment. 
+- **Roaring Twenties** overall prosperity.
+- (1929) stock market crash. **Great Depression**. "Dirty Thirties" 27% unemployment.
   - Canada goes socialist with minimum wages, standard work week, and unemployment insurance.
   - (1934) Bank of Canada to stabilize economy
 
 ## D-Day
+
 - (1943–44) Canadians took part in the liberation of Italy
-- (June 6, 1944) D-Day. Invasion of Normandy in northern France. 15,000 Canadian troops stormed and captured Juno Beach from the German Army. ~ 1/10 Allied soldiers on D-Day was Canadian. 
-- (1944–45) The Canadian Army liberated the Netherlands 
+- (June 6, 1944) D-Day. Invasion of Normandy in northern France. 15,000 Canadian troops stormed and captured Juno Beach from the German Army. ~ 1/10 Allied soldiers on D-Day was Canadian.
+- (1944–45) The Canadian Army liberated the Netherlands
 - (May 8, 1945) Canada helped force the German surrender
 
 ## Second World War
+
 - (1939) WW2 starts Adolf Hitler + National Socialist (Nazi) invaded Poland and conquered much of Europe.
-  - 1/11.5 million Canadians and Newfoundlanders (Newfoundland was a separate British entity) fight WW2. 44,000 were killed. 
+  - 1/11.5 million Canadians and Newfoundlanders (Newfoundland was a separate British entity) fight WW2. 44,000 were killed.
 - (1941) unsuccessful defence of Hong Kong from Imperial Japan,
-- (1942) failed raid on Nazi-controlled Dieppe on the coast of France. 
-- The **Royal Canadian Air Force (RCAF)** took part in the **Battle of Britain**. Canada most effort in Allied forces in British Commonwealth Air Training Plan. 
+- (1942) failed raid on Nazi-controlled Dieppe on the coast of France.
+- The **Royal Canadian Air Force (RCAF)** took part in the **Battle of Britain**. Canada most effort in Allied forces in British Commonwealth Air Training Plan.
 - The **Royal Canadian Navy (RCN)** took part in the **Battle of the Atlantic**, protect merchant ships against German submarines. **Canada’s Merchant Navy** feed, clothe and resupply Britain. At the end of the Second World War, Canada had the third largest navy in the world.
 - AFter Japan surrender, forcible relocation of Japanese Canadians and the sale of their property without compensation. **Government apologized in 1988**
 
@@ -327,95 +335,102 @@ At Confederation, only property-owning adult white males can vote. Dr. Emily Sto
 - (1951) most Canadians were able to afford adequate food, shelter and clothing.
 - (1945 and 1970) Canada loves trading with the US. Canada got rich and made
   - **Canada Health Act** ensures common elements and a basic standard of coverage.
-  - (1940) **(Un)employment insurance** 
+  - (1940) **(Un)employment insurance**
   - (1927) Old Age Security
   - (1965) Canada and Quebec Pension Plans.
   - Publicly funded education is provided by the provinces and territories.
 
 ## International Engagement
 
-- During The Cold War, Canada joined with other democratic countries of the West to form the **North Atlantic Treaty Organization (NATO)**, a military alliance, 
+- During The Cold War, Canada joined with other democratic countries of the West to form the **North Atlantic Treaty Organization (NATO)**, a military alliance,
 - North American Aerospace Defence Command (NORAD) with the United States.
 - Canada joined the United Nations (UN). It participated in the UN operation defending
-   - (1950–53) South Korea in the Korean War, with 500 dead and 1,000 wounded. 
-   - Egypt, Cyprus and Haiti, 
-   - former Yugoslavia and Afghanistan. 
+  - (1950–53) South Korea in the Korean War, with 500 dead and 1,000 wounded.
+  - Egypt, Cyprus and Haiti,
+  - former Yugoslavia and Afghanistan.
 
 ## Canada And Quebec
 
-- (1960s) **Quiet Revolution**. Many Quebecers sought to separate from Canada. 
-- (1963) Parliament established the **Royal Commission on Bilingualism and Biculturalism.** 
+- (1960s) **Quiet Revolution**. Many Quebecers sought to separate from Canada.
+- (1963) Parliament established the **Royal Commission on Bilingualism and Biculturalism.**
 - (1969) **Official Languages Act** guarantees French and English services in the federal government across Canada.
-- (1970) Canada helped found **La Francophonie**, an international association of French-speaking countries. 
+- (1970) Canada helped found **La Francophonie**, an international association of French-speaking countries.
 - (1980) defeated in a referendum for Quebec sovereignty in Quebec
-- (1982) the Constitution was amended without the agreement of Quebec. 
-- (1995) defeated in a second referendum, 
-- Quebec still has problems 
+- (1982) the Constitution was amended without the agreement of Quebec.
+- (1995) defeated in a second referendum,
+- Quebec still has problems
 
 ## A Changing Society
+
 Summary: Canada became more flexible cause they accepted more immigrants
 
 As social values changed over more than 50 years, Canada became a more flexible and open society. Many took advantage of expanding secondary and postsecondary educational opportunities and a growing number of women entered the professional work force. Most Canadians of Asian descent had in the past been denied the vote in federal and provincial elections. In 1948 the last of these, the Japanese Canadians, gained the right to vote. Aboriginal people were granted the vote in 1960. Today every citizen over the age of 18 may vote. Canada welcomed thousands of refugees from Communist oppression, including about 37,000 who escaped Soviet tyranny in Hungary in 1956. With the Communist victory in the Vietnam War in 1975, many Vietnamese fled, including over 50,000 who sought refuge in Canada. The idea of multiculturalism, as a result of 19th- and 20th-century immigration, gained a new impetus. By the 1960s, one-third of Canadians had origins that were neither British nor French, and took pride in preserving their distinct culture in the Canadian fabric. Today, diversity enriches Canadians’ lives, particularly in our cities.
 
 ## Arts and culture in Canada
 
-- Maybe Stephen Leacock, Louis Hémon, Sir Charles G.D. Roberts, Pauline Johnson, Émile Nelligan, Robertson Davies, Margaret Laurence and Mordecai Richler. 
-- Musicians such as Sir Ernest MacMillan and Healey Willan won renown in Canada and abroad. 
-- Writers such as Joy Kogawa, Michael Ondaatje and Rohinton Mistry have diversified Canada’s literary experience. 
-- In the visual arts, Canada is historically perhaps best known for the **Group of Seven (1920)**, who developed a style of painting to capture the rugged wilderness landscapes. 
-- Emily Carr painted the forests and Aboriginal artifacts of the West Coast. 
-- Les Automatistes of Quebec were pioneers of modern abstract art in the 1950s, most notably Jean-Paul Riopelle. 
-- Quebec’s Louis-Philippe Hébert was a celebrated sculptor of historical figures. 
-- Kenojuak Ashevak pioneered modern Inuit art with etchings, prints and soapstone sculptures. 
+- Maybe Stephen Leacock, Louis Hémon, Sir Charles G.D. Roberts, Pauline Johnson, Émile Nelligan, Robertson Davies, Margaret Laurence and Mordecai Richler.
+- Musicians such as Sir Ernest MacMillan and Healey Willan won renown in Canada and abroad.
+- Writers such as Joy Kogawa, Michael Ondaatje and Rohinton Mistry have diversified Canada’s literary experience.
+- In the visual arts, Canada is historically perhaps best known for the **Group of Seven (1920)**, who developed a style of painting to capture the rugged wilderness landscapes.
+- Emily Carr painted the forests and Aboriginal artifacts of the West Coast.
+- Les Automatistes of Quebec were pioneers of modern abstract art in the 1950s, most notably Jean-Paul Riopelle.
+- Quebec’s Louis-Philippe Hébert was a celebrated sculptor of historical figures.
+- Kenojuak Ashevak pioneered modern Inuit art with etchings, prints and soapstone sculptures.
 - The films of Denys Arcand have been popular in Quebec and across the country, and have won international awards.
 - Canadian filmmakers: Norman Jewison and Atom Egoyan.
 - **Basketball** was invented by Canadian James Naismith in 1891.
 - In 1996 at the Olympic Summer Games, Donovan Bailey became a world record sprinter and double Olympic gold medallist.
 - Chantal Petitclerc became a world champion wheelchair racer and Paralympic gold medalist.
 - One of the greatest hockey players of all time, **Wayne Gretzky**, played for the Edmonton Oilers from 1979 to 1988.
-- In 1980, **Terry Fox**, a British Columbian who lost his right leg to cancer at the age of 18, began a cross-country run, the “Marathon of Hope,” to raise money for cancer research. He became a hero to Canadians. While he did not finish the run and ultimately lost his battle with cancer, his legacy continues through yearly fundraising events in his name. 
-- In 1985, fellow British Columbian Rick Hansen circled the globe in a wheelchair to raise funds for spinal cord research. Canadian advances in science and technology are world renowned and have changed the way the world communicates and does business. 
-- Marshall McLuhan and Harold Innis were pioneer thinkers. 
+- In 1980, **Terry Fox**, a British Columbian who lost his right leg to cancer at the age of 18, began a cross-country run, the “Marathon of Hope,” to raise money for cancer research. He became a hero to Canadians. While he did not finish the run and ultimately lost his battle with cancer, his legacy continues through yearly fundraising events in his name.
+- In 1985, fellow British Columbian Rick Hansen circled the globe in a wheelchair to raise funds for spinal cord research. Canadian advances in science and technology are world renowned and have changed the way the world communicates and does business.
+- Marshall McLuhan and Harold Innis were pioneer thinkers.
 - Since 1989, the Canadian Space Agency and Canadian astronauts have participated in space exploration, often using the Canadian-designed and built **Canadarm**.
 - Gerhard Herzberg, a refugee from Nazi Germany, John Polanyi, Sidney Altman, Richard E. Taylor, Michael Smith and Bertram Brockhouse were Nobel Prize-winning scientists.
 
 ## GREAT CANADIAN DISCOVERIES AND INVENTIONS
 
 Canadians have made various discoveries and inventions. Some of the most famous are listed below.
--	 **Alexander Graham Bell** — hit on the idea of the telephone at his summer house in Canada.
--	 **Joseph-Armand Bombardier** — invented the snowmobile, a light-weight winter vehicle.
--	 **Sir Sandford Fleming** — invented the worldwide system of standard time zones.
--	 **Matthew Evans and Henry Woodward** — together invented the first electric light bulb and later sold the patent to Thomas Edison who, more famously, commercialized the light bulb. 
--	 **Reginald Fessenden** — contributed to the invention of radio, sending the first wireless voice message in the world.
--	 **Dr. Wilder Penfield** — was a pioneering brain surgeon at McGill University in Montreal, and was known as “the greatest living Canadian.”
--	 **Dr. John A. Hopps** — invented the first cardiac pacemaker, used today to save the lives of people with heart disorders.
--	 **SPAR Aerospace / National Research Council** — invented the Can ht  adarm, a robotic arm used in outer space.
--	 **Mike Lazaridis and Jim Balsillie** — of Research in Motion (RIM) — a wireless communications company known for its most famous invention: the BlackBerry. 
+
+- **Alexander Graham Bell** — hit on the idea of the telephone at his summer house in Canada.
+- **Joseph-Armand Bombardier** — invented the snowmobile, a light-weight winter vehicle.
+- **Sir Sandford Fleming** — invented the worldwide system of standard time zones.
+- **Matthew Evans and Henry Woodward** — together invented the first electric light bulb and later sold the patent to Thomas Edison who, more famously, commercialized the light bulb.
+- **Reginald Fessenden** — contributed to the invention of radio, sending the first wireless voice message in the world.
+- **Dr. Wilder Penfield** — was a pioneering brain surgeon at McGill University in Montreal, and was known as “the greatest living Canadian.”
+- **Dr. John A. Hopps** — invented the first cardiac pacemaker, used today to save the lives of people with heart disorders.
+- **SPAR Aerospace / National Research Council** — invented the Can ht adarm, a robotic arm used in outer space.
+- **Mike Lazaridis and Jim Balsillie** — of Research in Motion (RIM) — a wireless communications company known for its most famous invention: the BlackBerry.
 
 # How Canadians Govern Themselves
 
 ## Federal State
-- (1867) British North America Act: Defined the responsibilities of the federal and provincial governments 
+
+- (1867) British North America Act: Defined the responsibilities of the federal and provincial governments
 - (1867) now known as the Constitution Act
 - federal government responsibilities: national and international concern. (Defence, foreign policy, interprovincial trade and communications, currency, navigation, criminal law and citizenship.)
-- provincal government responsibilites: municipal government, education, health, natural resources, property and civil rights, and highways. 
-- federal + provinces share agriculture and immigration. 
-- Federalism allows different provinces to adopt policies tailored to their own populations, and gives provinces the flexibility to experiment with new ideas and policies. 
+- provincal government responsibilites: municipal government, education, health, natural resources, property and civil rights, and highways.
+- federal + provinces share agriculture and immigration.
+- Federalism allows different provinces to adopt policies tailored to their own populations, and gives provinces the flexibility to experiment with new ideas and policies.
 - Every province has its own elected **Legislative Assembly**, like the House of Commons in Ottawa. (Except three northern territories )
+
 ## Parliamentary Democracy
-- **parliamentary democracy**:  people elect members to the House of Commons in Ottawa and to the provincial and territorial legislatures. These representatives are responsible for passing laws, approving and monitoring expenditures, and keeping the government accountable. 
+
+- **parliamentary democracy**: people elect members to the House of Commons in Ottawa and to the provincial and territorial legislatures. These representatives are responsible for passing laws, approving and monitoring expenditures, and keeping the government accountable.
 - **Cabinet ministers** (primes minister and his selected goons) are responsible to the elected representatives, which means they must retain the “confidence of the House” and have to resign if they are defeated in a non-confidence vote
-- Parliament has three parts: 
+- Parliament has three parts:
   - the Sovereign (Queen or King), represented by **Governer General** (5 years). Appointed by advice of the **Prime Minister**
   - the Senate: Appointeed by Governer General, by advice of the Prime Minister. Senators serves until 75
   - the House of Commons: representative chamber. **members of Parliament (MP)** elected by the people every 4 years
-- Provincial legislatures: comprise the 
-  - Lieutenant Governor and 
-  - the elected Assembly. 
+- Provincial legislatures: comprise the
+  - Lieutenant Governor and
+  - the elected Assembly.
 - Both the House of Commons and the Senate consider and review bills (proposals for new laws). No bill can become law in Canada until it has been passed by both chambers and has received **royal assent**, granted by the Governor General on behalf of the Sovereign.
 
 ## Making Laws
+
 How a bill becomes law — The Legislative Process
+
 - STEP 1 First Reading – The bill is considered read for the first time and is printed.
 - STEP 2 Second Reading – Members debate the bill’s principle.
 - STEP 3 Committee Stage – Committee members study the bill clause by clause.
@@ -423,67 +438,140 @@ How a bill becomes law — The Legislative Process
 - STEP 5 Third Reading – Members debate and vote on the bill.
 - STEP 6 Senate – The bill follows a similar process in the Senate.
 - STEP 7 Royal Assent – The bill receives royal assent after being passed by both Houses
+
 ## Constitutional Monarchy
-- Constitutional Monarchy means the head of state is a hereditary Sovereign (King or Queen), who rules in accordance to the Consititution 
-- The Sovereign (King/Queen) is a part of Parliament. 
-  - non-partisan role as the focus of citizenship and allegiance. 
-  - Just a symbol. 
-  - links Canada to 53 common wealth countries. 
-  - head of state (Sovereign) is not head of government (Prime Minister) 
-- Three branches of government: **Executive**, **Legislative** and **Judicial**. work together. 
-- Each provincial/territorial government 
+
+- Constitutional Monarchy means the head of state is a hereditary Sovereign (King or Queen), who rules in accordance to the Consititution
+- The Sovereign (King/Queen) is a part of Parliament.
+  - non-partisan role as the focus of citizenship and allegiance.
+  - Just a symbol.
+  - links Canada to 53 common wealth countries.
+  - head of state (Sovereign) is not head of government (Prime Minister)
+- Three branches of government: **Executive**, **Legislative** and **Judicial**. work together.
+- Each provincial/territorial government
 - has an **elected legislature** (passes laws). Legislative Assembly (MLAs), members of the National Assembly (MNAs), members of the Provincial Parliament (MPPs) or members of the House of Assembly (MHAs).
-- Provinces: **Premier** is like Prime Minister. Lieutenant Governor like Governor General. 
+- Provinces: **Premier** is like Prime Minister. Lieutenant Governor like Governor General.
 - Territories: the **Commissioner** like federal government, ceremonial role.
+
 ## Canada’s System of Government
+
 - Executive Branch: PrimeMinister + Cabinat. Implements Laws
 - Legeslative Branch: Senate + House of Commons. Passes Laws
+
 # Federal Elections
+
 - federal elections every four years after general election (third Monday in October every). Prime Minister
-may ask the Governor General to call an earlier election.
-- Canada has 308 electoral districts/ridings/constituencies. Each one is represented by an MP. People who run for office are candidates 
+  may ask the Governor General to call an earlier election.
+- Canada has 308 electoral districts/ridings/constituencies. Each one is represented by an MP. People who run for office are candidates
 
 ## Voting
+
 - You are eligible to vote in a federal election (or cast a ballot in a federal referendum) if
   - a Canadian citizen; and
   - at least 18 years old on voting day; and
   - on the voters’ list
 - Voter's list is produced from the National Register of Electors (db of Canadians older than 18) by a neutral agency
-of Parliament called Elections Canada.
+  of Parliament called Elections Canada.
 - Elections Canada mails elegible voters a voter information card for when and where to vote
 - You can be added to the voter's list the day of the election
 
 ## Secret Ballot
-- No one can watch you vote. But yuo can discuss after 
-## After Election 
+
+- No one can watch you vote. But yuo can discuss after
+
+## After Election
+
 - The leader of the party with most votes is asked by the Governer General to form an government.
-- The leader becomes the prime minister 
+- The leader becomes the prime minister
   - Majority government: more than half seats in House of Commons
   - Minority government: less than half seats in House of Commons
 - Prime Minister and his party runs government as long as they have the **confidence** of a majority of MPs
 - If a majority of the members of the House of Commons vote against a major government decision (like budget), the party in power is defeated, then usually in the Prime Minister asking the Governor General, to call an election.
 - Prime Minister gets to choose ministers of the Crown/ Cabinet Ministers to form the Cabinet
-- Opposition parties: parties not in power. Official Opposition is the party with the second most seats. 
+- Opposition parties: parties not in power. Official Opposition is the party with the second most seats.
 
-## Other Levels of Government 
+## Other Levels of Government
+
 - local/ municipal government: responsible for urban or regional planning, streets and roads, sanitation (such as garbage removal), snow removal etc
-  - "by-laws" only affect local community 
+  - "by-laws" only affect local community
   - The council has has mayor (reeve) and councillors (aldermen)
 - First Nations have band chiefs and councillors
 - Note: look at chart of responsibilites for each level of government
+
 # The Justice System
-- we use **presumption of innocence**: everyone is innocent until proven guilty. 
+
+- we use **presumption of innocence**: everyone is innocent until proven guilty.
 - The courts settle disputes and the police enforce the laws.
+
 ## Courts
--  Supreme Court *of Canada* is our country’s highest court
--  Federal Court of Canada deals with matters concerning the federal government
--  In most provinces there is an appeal court and a trial court, sometimes called the Court of Queen’s Bench or the Supreme Court.
--  Also provincal courts for lesser offences 
-## Police 
+
+- Supreme Court _of Canada_ is our country’s highest court
+- Federal Court of Canada deals with matters concerning the federal government
+- In most provinces there is an appeal court and a trial court, sometimes called the Court of Queen’s Bench or the Supreme Court.
+- Also provincal courts for lesser offences
+
+## Police
+
 - There are provincial police forces in Ontario and Quebec
-- municipal police departments in all provinces. 
+- municipal police departments in all provinces.
 - The Royal Canadian Mounted Police (RCMP) enforce federal laws throughout Canada,
   - serve as the provincial police in all provinces and territories except Ontario and Quebec
-# Canadian Symbols (today)
-# Canada's Economy (today)
-# Canada's Regions (Tonight)
+
+# Canadian Symbols
+
+- Canadian Crown
+- Flags in CAnada
+  - red-white-flag comes from Royal Military College Kingston
+  - Union jack is royal flag
+- The Maple Left
+  - Also in head stones
+- Fleur-de-Lys
+  - the Lily flower. Quebec
+- Coat of Arms and Motto
+  - after ww1 canada adopted coat of arms and motto "from sea to sea".
+- Paraliament Buildings
+- Popular sports
+  - hockey and lacross
+- The beaver
+- Official languages
+  - official languages act (1969): both english and french
+
+## Victoria cross
+
+- The highest honor available to Canadians. During war times mostly. There's 6 people that have it
+
+# Canada's Economy
+
+## A Trading Nation
+
+- In 1988, Canada enacted free trade with the United States. Mexico became a partner in 1994 in the broader **North American Free Trade Agreement (NAFTA)**, with over 444 million people and over $1 trillion in merchandise trade in 2008.
+- Today, Canada has one of the ten largest economies in the world and is part of the **G8 group** of leading industrialized countries with the United States, Germany, the United Kingdom, Italy, France, Japan and Russia.
+
+## Main Inudstries
+
+- Service industries: 75% of working Canadians now have jobs in service industries.
+- Manufacturing industries. Our largest international trading partner is the United States.
+- Natural resources industries include forestry, fishing, agriculture, mining and energy. Large percentage of Canada’s exports are natural resources commodities.
+- Canada enjoys close relations with the United States and each is the other’s largest trading partner. At Blaine in the State of Washington, the Peace Arch, inscribed with the words **“children of a common mother”** and **“brethren dwelling together in unity,”** symbolizes our close ties and common interests.
+
+# Canada's Regions
+
+- Canada is the second largest country on earth—10 million square kilometres.
+- Three oceans line Canada’s frontiers: the Pacific Ocean in the west, the Atlantic Ocean in the east, and the Arctic Ocean to the north.
+- South is US
+
+## Regions
+
+- The Atlantic Provinces (Newfoundland and Labrador. PEI, Nova Scotia, New Brunswick)
+- Central Canada (quebec, Ontario)
+- The Prairie Provinces ( Manitoba, Saskachewan, Alberta)
+- The West Coast (BC)
+- The Northern Territories (NW terratories, Nunavut, Yukon)
+
+Capital is Ottawa
+
+10 provinces and 3 territories
+34 million people, most lives in cities
+
+The Canadian Rangers
+CCanadian Rangers, part of the Canadian Forces Reserves (militia), play a key role. Drawing on indigenous knowledge and experience, the Rangers travel by snowmobile in the winter and all-terrain vehicles in the summer from Resolute to the Magnetic North Pole, and keep the flag flying in Canada’s Arctic.
